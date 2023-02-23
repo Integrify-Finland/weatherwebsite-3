@@ -8,11 +8,10 @@ const search = () => {
             <form>
                 <input type={Text}>
                 </input>
-                <label for={""}><button type={submit}>Search</button></label>
+                <label for=''><button type='submit'>Search</button></label>
             </form>
         </div>
     )
-  };
-  
-  export default search;
-  
+};
+
+export default search;

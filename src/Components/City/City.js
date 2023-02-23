@@ -5,10 +5,9 @@ const City = () => {
 
     return (
         <div>
-            <City />
+            City
         </div>
     )
-  };
-  
-  export default City;
-  
+};
+
+export default City;

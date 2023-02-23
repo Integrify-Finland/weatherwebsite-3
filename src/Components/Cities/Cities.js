@@ -1,5 +1,7 @@
 import React from "react";
 
+import City from "../City/City";
+
 const Cities = () => {
 
 
@@ -8,7 +10,6 @@ const Cities = () => {
             <City />
         </div>
     )
-  };
-  
-  export default Cities;
-  
+};
+
+export default Cities;
